@@ -57,7 +57,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.test1">
-    <configuration name="per__model1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="per_model1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="machine learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Pycharm Project\machine learning\perception\per__model1.py" />
+      <option name="SCRIPT_NAME" value="D:\Pycharm Project\machine learning\perception\per_model1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +186,7 @@
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.per_model3" />
         <item itemvalue="Python.per_model2" />
-        <item itemvalue="Python.per__model1" />
+        <item itemvalue="Python.per_model1" />
         <item itemvalue="Python.perception__model1" />
       </list>
     </recent_temporary>
@@ -218,7 +218,7 @@
       <workItem from="1584708156808" duration="4464000" />
       <workItem from="1584780692957" duration="1896000" />
       <workItem from="1584792053009" duration="3894000" />
-      <workItem from="1584855987565" duration="240000" />
+      <workItem from="1584855987565" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="3.22">
       <created>1584856066524</created>
@@ -227,11 +227,29 @@
       <option name="project" value="LOCAL" />
       <updated>1584856066525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3.22">
+      <created>1584856415384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584856415384</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3.22" />
@@ -250,10 +268,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584710655709" />
-    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1584856065908">
+    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1584856414696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584856065908" />
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584856414696" />
     <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1584792591682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,30 +288,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="591" y="113" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584708612916" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584856072576">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584856418619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584856072576" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584856072576">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584856418619" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584856418618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584856072576" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584856072575">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584856418618" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584856418618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584856072575" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584856072576">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584856418618" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584856418618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584856072576" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584856418618" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1584707303144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584707303144" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584856090801">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584856453687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584856090801" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584856453687" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/machine_learning$model.coverage" NAME="model Coverage Results" MODIFIED="1584707112617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
