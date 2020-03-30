@@ -1,11 +1,26 @@
 import numpy as np
 
 
-a = np.array([[1, 2, 3], [7, 8, 9]])
-b = np.array([1, 2, 3])
+class Model:
+    def __init__(self):
+        self.a = 1
+        self.b = 2
 
-# np.ndim 测量数据的维度
-print(a.ndim)
-print(b.ndim)
+    def sum(self):
+        c = self.a + self.b
+        return c
 
-print(a.shape)
+
+def fun1():
+
+    print(Model.sum)
+
+
+fun1()
+# # np.ndim 测量数据的维度
+# print(a.ndim)
+# print(b.ndim)
+#
+# print(a.shape)
+# c = np.dot(a, b)
+# print(c)

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eaf3d9e-3385-4dda-9769-6a4791a46b56" name="Default Changelist" comment="" />
+    <list default="true" id="3eaf3d9e-3385-4dda-9769-6a4791a46b56" name="Default Changelist" comment="3.22">
+      <change afterPath="$PROJECT_DIR$/class1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/perception/per_model3.py" beforeDir="false" afterPath="$PROJECT_DIR$/perception/per_model3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +59,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../t-test/main.py" />
     <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.test1">
+  <component name="RunManager" selected="Python.per_model3 (1)">
     <configuration name="per_model1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="machine learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +109,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="per_model3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/perception" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/perception/per_model3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="per_model3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="machine learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,28 +145,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Pycharm Project\machine learning\perception\per_model3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="perception__model1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="machine learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/perception" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Pycharm Project\machine learning\perception\perception__model1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.per_model3 (1)" />
         <item itemvalue="Python.per_model3" />
-        <item itemvalue="Python.per_model2" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.per_model1" />
-        <item itemvalue="Python.perception__model1" />
+        <item itemvalue="Python.per_model2" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +226,17 @@
       <workItem from="1584708156808" duration="4464000" />
       <workItem from="1584780692957" duration="1896000" />
       <workItem from="1584792053009" duration="3894000" />
-      <workItem from="1584855987565" duration="487000" />
+      <workItem from="1584855987565" duration="1622000" />
+      <workItem from="1584962460551" duration="177000" />
+      <workItem from="1584962645025" duration="1999000" />
+      <workItem from="1584966119177" duration="2711000" />
+      <workItem from="1585186424519" duration="7900000" />
+      <workItem from="1585282355740" duration="3850000" />
+      <workItem from="1585374432228" duration="2834000" />
+      <workItem from="1585471523840" duration="3144000" />
+      <workItem from="1585533496231" duration="62000" />
+      <workItem from="1585533953402" duration="2127000" />
+      <workItem from="1585556597940" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="3.22">
       <created>1584856066524</created>
@@ -234,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584856415384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3.22">
+      <created>1584856529518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584856529518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +270,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -264,17 +291,20 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584706898295" />
-    <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584710655709">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="426" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585190238773">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="426" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585190238773" />
     <state x="511" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584710655709" />
-    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1584856414696">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1585540944849">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584856414696" />
-    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1584792591682">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585540944849" />
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584857009511" />
+    <state x="457" y="127" key="FileChooserDialogImpl" timestamp="1585229463599">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="457" y="127" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585229463599" />
     <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584792591682" />
     <state x="589" y="326" width="382" height="172" key="Github.CreateGistDialog" timestamp="1584707215213">
       <screen x="0" y="0" width="1536" height="824" />
@@ -288,39 +318,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="591" y="113" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584708612916" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584856418619">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="691" height="204" key="GridCell.Tab.0.bottom" timestamp="1585557439617">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="691" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585557439617" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584856418619" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584856418618">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="691" height="204" key="GridCell.Tab.0.center" timestamp="1585557439617">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="691" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585557439617" />
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584856418618" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584856418618">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="691" height="204" key="GridCell.Tab.0.left" timestamp="1585557439616">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="691" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585557439616" />
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584856418618" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584856418618">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="691" height="204" key="GridCell.Tab.0.right" timestamp="1585557439617">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="691" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585557439617" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584856418618" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1584707303144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584707303144" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584856453687">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1584856543761">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584856453687" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584856543761" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/machine_learning$model.coverage" NAME="model Coverage Results" MODIFIED="1584707112617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
     <SUITE FILE_PATH="coverage/machine_learning$model2.coverage" NAME="model2 Coverage Results" MODIFIED="1584708235981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
-    <SUITE FILE_PATH="coverage/machine_learning$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1584856011465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/machine_learning$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1585189968723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/machine_learning$model2__1_.coverage" NAME="model2 (1) Coverage Results" MODIFIED="1584707179175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
     <SUITE FILE_PATH="coverage/machine_learning$sklearn.coverage" NAME="sklearn Coverage Results" MODIFIED="1584707079737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
     <SUITE FILE_PATH="coverage/machine_learning$model3.coverage" NAME="model3 Coverage Results" MODIFIED="1584711444088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
     <SUITE FILE_PATH="coverage/machine_learning$model1__1_.coverage" NAME="model1 (1) Coverage Results" MODIFIED="1584707190723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
+    <SUITE FILE_PATH="coverage/machine_learning$per_model1.coverage" NAME="per_model1 Coverage Results" MODIFIED="1584967625670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
     <SUITE FILE_PATH="coverage/machine_learning$model1.coverage" NAME="model1 Coverage Results" MODIFIED="1584708232265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
+    <SUITE FILE_PATH="coverage/machine_learning$per_model3__1_.coverage" NAME="per_model3 (1) Coverage Results" MODIFIED="1585557439609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
+    <SUITE FILE_PATH="coverage/machine_learning$per_model3.coverage" NAME="per_model3 Coverage Results" MODIFIED="1585190499803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/perception" />
   </component>
 </project>
