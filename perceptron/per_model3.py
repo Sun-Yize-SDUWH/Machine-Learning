@@ -17,8 +17,7 @@ class Model:
         self.time = 100
 
     def trainfun(self):
-        m = 0
-        flag = 0
+        m, flag = 0, 0
         while m < self.time:
             for n in range(np.shape(self.inputs)[0]):
                 outputs = np.where(np.dot(self.inputs, self.w) > 0, 1, 0)
