@@ -19,7 +19,7 @@ classrange = [[17, 90],
               [0, 4356],
               [1, 99]]
 
-fOut = open("data", "w")
+fOut = open("data.csv", "w")
 for line in open("adult.data", "r"):
     if line.find("?") > -1:
         continue
@@ -51,7 +51,9 @@ for line in open("adult.data", "r"):
                 temp += '1,' + '0,' * (num - flag - 1)
                 fStr += temp
             elif row == 2:
-                if items[s] == 'Male' or items[s] == '<=50K':
+                if items[s] == '<=50K':
+                    fStr += '-1,'
+                elif items[s] == 'Male':
                     fStr += '0,'
                 else:
                     fStr += '1,'
