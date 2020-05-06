@@ -1,6 +1,7 @@
 import random
 import numpy as np
 import pandas as pd
+import time
 
 
 floatmin = 0.00001
@@ -112,7 +113,7 @@ def testSample(testdata, valuew, valueb):
 
 
 dataTotal = np.array(pd.read_csv('data.csv'))
-data = dataTotal[:1600, :]
+data = dataTotal[:200, :]
 testdata = dataTotal[2000:2200, :]
 # print(data[0][123])
 
@@ -120,3 +121,5 @@ test = SMO(data)
 [w, b, c, max_passes] = test.mainSMO()
 rate = testSample(testdata, w, b) * 100
 print("SMO Algorithm\n1600 training sets, 200 test sets\nC={0}, max_passes={1}, accuracy={2:.2f}".format(c, max_passes, rate))
+long = time.process_time()
+print('Running time: {:.2f} Seconds'.format(long))
